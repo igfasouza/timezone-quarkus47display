@@ -10,7 +10,6 @@ An application that reads available timezones from worldtimeapi.org and displays
 
 ```
 mvn package -Dquarkus.package.uber-jar=true
-
 ```
 
 
